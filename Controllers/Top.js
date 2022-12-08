@@ -30,7 +30,7 @@ const data = (req,res) => {
         id: 9,
         category : "technology",
         title : "Explained | The office of the Governor: its origins, powers, and controversies",
-        image : "https://pbs.twimg.com/card_img/1586091633266728960/jYjE8DUv?format=jpg&name=small",
+        image : "https://images.hindustantimes.com/img/2022/12/08/550x309/ca16a258-7727-11ed-8ebf-dd5cdea533c0_1670525254454.jpg",
         content : "Queen Elizabeth II was laid to rest on September 19 at the King George VI Memorial Chapel. The funeral for the late monarch saw leaders from all over the world travelling to the UK to pay their last respects to Britain's longest-serving monarch who passed away aged 96 on September 8. All members of the royal family also bid their final farewell. Following the private burial service that was attended only by the members of the family of the late monarch, a poignant tribute was paid to Queen Elizabeth on the social media account of the royal family as Buckingham Palace shared an unseen vintage photo of the late monarch from 1971. In the picture, the Queen can be seen holding a walking stick while wearing a green coat and patterned head scarf.  The photograph captures the Queen at Balmoral, her residence in Scotland, in 1971, according to Sky News. The photo was taken by Patrick Lichfield, who is the 5th Earl of Lichfield. Along with the photo, the Palace shared a poignant message that said, May flights of Angels sing thee to thy rest. In loving memory of Her Majesty The Queen. 1926 - 2022  in reference to Shakespeare's Hamlet ",
         date : "19 Sept, 2022"
     },
